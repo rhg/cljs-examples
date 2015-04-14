@@ -6,8 +6,7 @@
                  [adzerk/boot-reload    "0.2.6"      :scope "test"]
                  [boot-cljs-test/node-runner "0.1.0" :scope "test"]
                  [org.clojure/clojurescript "0.0-3196"  :scope "test"]
-                 [pandeiro/boot-http    "0.6.2"      :scope "test"]
-                 [reagent "0.5.0"]])
+                 [pandeiro/boot-http    "0.6.2"      :scope "test"]])
 
 (require
  '[adzerk.boot-cljs      :refer [cljs]]
